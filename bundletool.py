@@ -57,10 +57,10 @@ AAPT2_PATH = os.path.join(get_base_dir(), "tools", "aapt2", get_system(), "aapt2
 ANDROID_JAR_PATH = os.path.join(get_base_dir(), "tools", "android_30.jar")
 BUNDLETOOL_TOOL_PATH = os.path.join(get_base_dir(), "tools", "bundletool-all-1.6.1.jar")
 
-KEYSTORE = os.path.join(get_base_dir(), "tools", "luojian37.jks")
-STORE_PASSWORD = "luojian37"
-KEY_ALIAS = "luojian37"
-KEY_PASSWORD = "luojian37"
+KEYSTORE = os.path.join(get_base_dir(), "tools", "glen.jks")
+STORE_PASSWORD = "G99788990"
+KEY_ALIAS = "glen"
+KEY_PASSWORD = "G99788990"
 
 BUNDLE_MODULE_TEMPLATE_PATH = os.path.join(get_base_dir(), "tools", "pad_template")
 
